@@ -26,3 +26,9 @@ python main.py
 4. Review Agent
 
 The system processes support tickets and suggests solutions.
+
+## 🏗️ Project Architecture
+
+The following diagram represents the architecture of the major AI projects developed during the internship.
+
+![Architecture Diagrams](images/Architecture%20diagrams.png)
